@@ -1,4 +1,6 @@
 #!/bin/sh
+#
+# Taken from http://www.drjunior.net/?q=node/15
 
 totalmethods=0
 for jar in `find . -type f -name "*.jar"`; do
